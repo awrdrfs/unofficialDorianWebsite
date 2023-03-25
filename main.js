@@ -1,5 +1,5 @@
 /* Create a string variable with the text to be displayed, and initialize a count and timer variable */
-let text = "大家安安！\n我是來自次元虛無深海的水母精魄：朵璃安 DDorian\n花朵的「朵」\n琉璃的「璃」\n安心的「安」\n可以叫我小朵或璃安就好\n(觸手比愛心";
+let text = "大家安安！\n我是來自次元虛無深海的水母精魄：朵璃安 Dorian\n花朵的「朵」\n琉璃的「璃」\n安心的「安」\n可以叫我小朵或璃安就好\n(觸手比愛心";
 let count = 0;
 let timer;
 
