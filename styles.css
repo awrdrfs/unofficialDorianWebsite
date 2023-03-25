@@ -17,7 +17,7 @@ body{
 
 .container{
     max-width: 1140px;
-    padding-top: 10vh;
+    padding-top: 0;
     padding-right: 15px;
     padding-left: 15px;
     margin:0 auto;
@@ -29,6 +29,7 @@ body{
 }
 
 .picture{
+    padding-top: 10vh;
     width: 30%;
 }
 .content{
